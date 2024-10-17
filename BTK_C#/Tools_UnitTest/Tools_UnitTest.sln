@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "..\Shopping
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Tests", "..\ShoppingCart.Tests\ShoppingCart.Tests.csproj", "{E35BB651-FFF1-4DFD-BC4A-36BD69B8EBD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNotes", "..\UnitTestNotes\UnitTestNotes.csproj", "{EC3DE11B-0F06-473E-A277-458B7A23637B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E35BB651-FFF1-4DFD-BC4A-36BD69B8EBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35BB651-FFF1-4DFD-BC4A-36BD69B8EBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35BB651-FFF1-4DFD-BC4A-36BD69B8EBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
