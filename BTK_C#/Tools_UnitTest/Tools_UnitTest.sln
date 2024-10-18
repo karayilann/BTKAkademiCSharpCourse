@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Tests", "..\Sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNotes", "..\UnitTestNotes\UnitTestNotes.csproj", "{EC3DE11B-0F06-473E-A277-458B7A23637B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_TestContext", "..\UnitTest_TestContext\UnitTest_TestContext.csproj", "{2CA70FC2-7C3E-41BB-B565-920468CE110B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3DE11B-0F06-473E-A277-458B7A23637B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA70FC2-7C3E-41BB-B565-920468CE110B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA70FC2-7C3E-41BB-B565-920468CE110B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA70FC2-7C3E-41BB-B565-920468CE110B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA70FC2-7C3E-41BB-B565-920468CE110B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

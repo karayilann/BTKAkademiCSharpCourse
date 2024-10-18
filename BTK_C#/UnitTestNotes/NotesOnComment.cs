@@ -44,5 +44,14 @@ namespace UnitTestNotes
 
         // 7.  CollectionAssert.Contains : Sorgulanan nesnenin listede olup olmadığını kontrol eder.  CollectionAssert.DoesNotContains ise bunun tam tersidir.
 
+        // ******************** STRINGASSERT methodunun overloadları : ********************************* 
+
+        // 1. StringAssert.Contains("Deneme","enem"); : "Deneme" ifadesinin içinde "enem" sözcüğü var mı onu kontrol eder.
+
+        // 2. StringAssert.Matches("Test dünyasından merhaba", new Regex(@"[a-zA-z]")) : Verilen string ifade içerisinde pattern bulunuyorsa test başarılı. Tam tersi ise StringAssert.DoesNotMatch() ' dir.
+
+        // 3. StringAssert.StartsWith(), StringAssert.EndsWith() : İfadenin hangi kelime veya harfle başlayıp bittiğini kontrol eder. Büyük küçük harf duyarlılığı vardır.
+
+
     }
 }
