@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<UserData>
+
+	<Users Name = "Aliş" PhoneNumber ="03242342342" mail = "asdasd@gmail.com"/>
+	<Users Name = "Efecan" PhoneNumber ="0324523435439053" mail = "efecan@gmail.com"/>
+	<Users Name = "Veli" PhoneNumber ="03240807342" mail = "veli@gmail.com"/>
+	<Users Name = "Zeynep" PhoneNumber ="0308902342" mail = "zeynep@gmail.com"/>
+	<Users Name = "Mehmet" PhoneNumber ="3424234342" mail = "mehmet@gmail.com"/>
+	<Users Name = "Ayşe" PhoneNumber ="0308902342" mail = "aysecik@gmail.com"/>
+	
+</UserData>
